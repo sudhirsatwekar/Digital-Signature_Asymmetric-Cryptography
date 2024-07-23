@@ -14,9 +14,8 @@ This project demonstrates how to use Java to generate key pairs, encrypt message
 - Java Development Kit (JDK) 8 or higher.
 
  Getting Started
+ Clone the repository
 
-1. Clone the repository
-```sh
 git clone https://github.com/yourusername/digital-signature-java.git
 cd digital-signature-java
 
