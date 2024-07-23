@@ -1,4 +1,4 @@
-# Digital Signature and Encryption in Java(default package)
+#Digital Signature and Encryption in Java(default package)
 
 This project demonstrates how to use Java to generate key pairs, encrypt messages, and decrypt messages using RSA. It involves two users, Alice and Bob, where Alice sends an encrypted message to Bob, and Bob decrypts the message using his private key.
 
@@ -27,7 +27,7 @@ Run the application
 java Main
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
-# Digital Signature and Encryption in Java(creating/verifying digital signature)
+#Digital Signature and Encryption in Java(creating/verifying digital signature)
 
 This repository contains a simple example of using digital signatures in Java, demonstrating how one user (Alice) 
 can sign a message and another user (Bob) can verify the signature. The example uses RSA for generating key pairs
