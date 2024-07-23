@@ -1,4 +1,6 @@
-1.Digital Signature Example in Java
+1.default package checks public and private keys for 2 users and checks the flow for executing it.
+
+2.Digital Signature Example in Java-
 
 This repository contains a simple example of using digital signatures in Java, demonstrating how one user (Alice) 
 can sign a message and another user (Bob) can verify the signature. The example uses RSA for generating key pairs
